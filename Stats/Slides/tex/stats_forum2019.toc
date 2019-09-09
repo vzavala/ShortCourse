@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Models of Random Variables}{29}{0}{2}
+\beamer@sectionintoc {3}{Estimation Techniques}{57}{0}{3}
+\beamer@sectionintoc {4}{Multivariate Statistics}{81}{0}{4}
+\beamer@sectionintoc {5}{Data-Driven Modeling}{109}{0}{5}
+\beamer@sectionintoc {6}{Statistical Learning}{145}{0}{6}
+\beamer@sectionintoc {7}{Decision-Making Under Uncertainty}{203}{0}{7}
